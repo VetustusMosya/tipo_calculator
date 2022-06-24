@@ -22,6 +22,7 @@
 
 `parseInt('')` -> приведение к целому числу
 
+`this.` -> внутри функций с необходимым лементом
 ### Событие 
 
 `document.body.addEventListener("событие", function);`
